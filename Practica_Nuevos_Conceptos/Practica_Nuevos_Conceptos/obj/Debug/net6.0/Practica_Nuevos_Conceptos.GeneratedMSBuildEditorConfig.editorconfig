@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Practica_Nuevos_Conceptos
+build_property.ProjectDir = C:\Users\ignac\OneDrive\Universidad\3er año\Programación II\Practica 01-04\Practica_Nuevos_Conceptos\Practica_Nuevos_Conceptos\Practica_Nuevos_Conceptos\
