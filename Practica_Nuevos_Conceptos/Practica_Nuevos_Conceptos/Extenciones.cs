@@ -7,18 +7,18 @@ using System.Text.RegularExpressions;
 
 namespace Practica_Nuevos_Conceptos
 {
-    public static class _Extenciones
+    public static class _Extenciones //Las clases no van con _ y deberia ser Extensiones
     {
         public static int CantidadPalabras(this string stringUtilizar) //Punto 1
         {
             string[] str = stringUtilizar.Split(' ');
-            return str.Count();
+            return str.Count(); //podria ser una sola linea
         }
 
         public static int CantidadPalabras(this string stringUtilizar, char separador) //Punto 2
         {
             string[] str = stringUtilizar.Split(separador);
-            return str.Count();
+            return str.Count(); //podria ser una sola linea
         }
 
         public static decimal Resta(this DateTime fecha1, DateTime fecha2) //Punto 3
@@ -52,6 +52,8 @@ namespace Practica_Nuevos_Conceptos
             }
 
             return suma * resta;
+            //Se podria usar lambda. Ej
+            //var sumaPares = lista.Where(x=>x %2 == 0).Sum();
         }
 
         public static DateTime DateTimeString(this string fecha) //Punto 6
@@ -76,6 +78,7 @@ namespace Practica_Nuevos_Conceptos
                 strInverso += letra;
             }
 
+            //revisar la funcion Reverse()
             return strInverso;
         }
 
@@ -86,13 +89,13 @@ namespace Practica_Nuevos_Conceptos
             {
                 union += str;
             }
-
+            //Revisar string.join
             return union;
         }
 
         public static bool CorreoElectronico(this string correo) //Punto 9
         {
-            return Regex.IsMatch(correo, @"(@)(.+)$");
+            return Regex.IsMatch(correo, @"(@)(.+)$"); //la expresion regular no es correcta pero esta bien el uso de regex
         }
 
         public static bool EsCuit(this string cuit) // Punto 10

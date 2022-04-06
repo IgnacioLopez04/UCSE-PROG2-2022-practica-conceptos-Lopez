@@ -10,7 +10,7 @@ namespace Practica_Nuevos_Conceptos
     {
         public static decimal CelsiusFahrenheit(this decimal temperatura)
         {
-            return (temperatura * (decimal)2.12);
+            return (temperatura * (decimal)2.12); //Se puede usar constante para el 2.12
         }
 
         public static decimal FahrenheitCelsius(this decimal temperatura)
