@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ignac\\OneDrive\\Universidad\\3er año\\Programación II\\Practica 01-04\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos.csproj": {}
+    "C:\\Users\\ignac\\OneDrive\\Universidad\\3er año\\Programación II\\Practica 01-04\\UCSE-PROG2-2022-practica-conceptos-Lopez\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ignac\\OneDrive\\Universidad\\3er año\\Programación II\\Practica 01-04\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos.csproj": {
+    "C:\\Users\\ignac\\OneDrive\\Universidad\\3er año\\Programación II\\Practica 01-04\\UCSE-PROG2-2022-practica-conceptos-Lopez\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignac\\OneDrive\\Universidad\\3er año\\Programación II\\Practica 01-04\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos.csproj",
+        "projectUniqueName": "C:\\Users\\ignac\\OneDrive\\Universidad\\3er año\\Programación II\\Practica 01-04\\UCSE-PROG2-2022-practica-conceptos-Lopez\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos.csproj",
         "projectName": "Practica_Nuevos_Conceptos",
-        "projectPath": "C:\\Users\\ignac\\OneDrive\\Universidad\\3er año\\Programación II\\Practica 01-04\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos.csproj",
+        "projectPath": "C:\\Users\\ignac\\OneDrive\\Universidad\\3er año\\Programación II\\Practica 01-04\\UCSE-PROG2-2022-practica-conceptos-Lopez\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos.csproj",
         "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignac\\OneDrive\\Universidad\\3er año\\Programación II\\Practica 01-04\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\obj\\",
+        "outputPath": "C:\\Users\\ignac\\OneDrive\\Universidad\\3er año\\Programación II\\Practica 01-04\\UCSE-PROG2-2022-practica-conceptos-Lopez\\Practica_Nuevos_Conceptos\\Practica_Nuevos_Conceptos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -97,7 +97,7 @@ namespace Practica_Nuevos_Conceptos
 
         public static bool EsCuit(this string cuit) // Punto 10
         {
-            return Regex.IsMatch(cuit, @"\d{2}\-?\d{8}\?\d{1}$");
+            return Regex.IsMatch(cuit, @"\d{2}\-?\d{8}\-?\d{1}$");
         }
         public static Cliente Resta(this Cliente cliente1, Cliente cliente2) //Punto 11
         {
@@ -115,11 +115,6 @@ namespace Practica_Nuevos_Conceptos
         public static int Resta(this int numero1, int numero2) //Punto 13
         {
             return numero1 - numero2;
-        }
-
-        public static decimal operator /(int numero1, int numero2) //Punto 14
-        {
-            return (decimal)(numero1 / numero2);
         }
     }
 }
